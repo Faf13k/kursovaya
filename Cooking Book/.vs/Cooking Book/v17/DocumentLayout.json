@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\unityProjs\\Cooking Book\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC50DEA-934B-2ECD-036C-E0D4B134E958}|Assembly-CSharp.csproj|D:\\unityProjs\\Cooking Book\\assets\\!scripts\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC50DEA-934B-2ECD-036C-E0D4B134E958}|Assembly-CSharp.csproj|solutionrelative:assets\\!scripts\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC50DEA-934B-2ECD-036C-E0D4B134E958}|Assembly-CSharp.csproj|d:\\unityprojs\\cooking book\\assets\\!scripts\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC50DEA-934B-2ECD-036C-E0D4B134E958}|Assembly-CSharp.csproj|solutionrelative:assets\\!scripts\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC50DEA-934B-2ECD-036C-E0D4B134E958}|Assembly-CSharp.csproj|D:\\unityProjs\\Cooking Book\\assets\\!scripts\\recipeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC50DEA-934B-2ECD-036C-E0D4B134E958}|Assembly-CSharp.csproj|solutionrelative:assets\\!scripts\\recipeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC50DEA-934B-2ECD-036C-E0D4B134E958}|Assembly-CSharp.csproj|D:\\unityProjs\\Cooking Book\\assets\\!scripts\\recipeui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC50DEA-934B-2ECD-036C-E0D4B134E958}|Assembly-CSharp.csproj|solutionrelative:assets\\!scripts\\recipeui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC50DEA-934B-2ECD-036C-E0D4B134E958}|Assembly-CSharp.csproj|D:\\unityProjs\\Cooking Book\\assets\\!scripts\\label.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC50DEA-934B-2ECD-036C-E0D4B134E958}|Assembly-CSharp.csproj|solutionrelative:assets\\!scripts\\label.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC50DEA-934B-2ECD-036C-E0D4B134E958}|Assembly-CSharp.csproj|D:\\unityProjs\\Cooking Book\\assets\\!scripts\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC50DEA-934B-2ECD-036C-E0D4B134E958}|Assembly-CSharp.csproj|solutionrelative:assets\\!scripts\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC50DEA-934B-2ECD-036C-E0D4B134E958}|Assembly-CSharp.csproj|D:\\unityProjs\\Cooking Book\\assets\\!scripts\\dependenciesinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC50DEA-934B-2ECD-036C-E0D4B134E958}|Assembly-CSharp.csproj|solutionrelative:assets\\!scripts\\dependenciesinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\unityProjs\\Cooking Book\\assets\\!scripts\\recipie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\!scripts\\recipie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Recipe.cs",
+              "DocumentMoniker": "D:\\unityProjs\\Cooking Book\\Assets\\!Scripts\\Recipe.cs",
+              "RelativeDocumentMoniker": "Assets\\!Scripts\\Recipe.cs",
+              "ToolTip": "D:\\unityProjs\\Cooking Book\\Assets\\!Scripts\\Recipe.cs",
+              "RelativeToolTip": "Assets\\!Scripts\\Recipe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T12:22:05.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RecipeView.cs",
+              "DocumentMoniker": "D:\\unityProjs\\Cooking Book\\Assets\\!Scripts\\RecipeView.cs",
+              "RelativeDocumentMoniker": "Assets\\!Scripts\\RecipeView.cs",
+              "ToolTip": "D:\\unityProjs\\Cooking Book\\Assets\\!Scripts\\RecipeView.cs",
+              "RelativeToolTip": "Assets\\!Scripts\\RecipeView.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T11:54:05.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RecipeUI.cs",
+              "DocumentMoniker": "D:\\unityProjs\\Cooking Book\\Assets\\!Scripts\\RecipeUI.cs",
+              "RelativeDocumentMoniker": "Assets\\!Scripts\\RecipeUI.cs",
+              "ToolTip": "D:\\unityProjs\\Cooking Book\\Assets\\!Scripts\\RecipeUI.cs",
+              "RelativeToolTip": "Assets\\!Scripts\\RecipeUI.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T11:48:11.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Label.cs",
+              "DocumentMoniker": "D:\\unityProjs\\Cooking Book\\Assets\\!Scripts\\Label.cs",
+              "RelativeDocumentMoniker": "Assets\\!Scripts\\Label.cs",
+              "ToolTip": "D:\\unityProjs\\Cooking Book\\Assets\\!Scripts\\Label.cs",
+              "RelativeToolTip": "Assets\\!Scripts\\Label.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T11:33:02.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Recipie.cs",
+              "DocumentMoniker": "D:\\unityProjs\\Cooking Book\\Assets\\!Scripts\\Recipie.cs",
+              "RelativeDocumentMoniker": "Assets\\!Scripts\\Recipie.cs",
+              "ToolTip": "D:\\unityProjs\\Cooking Book\\Assets\\!Scripts\\Recipie.cs",
+              "RelativeToolTip": "Assets\\!Scripts\\Recipie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T11:19:11.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DependenciesInstaller.cs",
+              "DocumentMoniker": "D:\\unityProjs\\Cooking Book\\Assets\\!Scripts\\DependenciesInstaller.cs",
+              "RelativeDocumentMoniker": "Assets\\!Scripts\\DependenciesInstaller.cs",
+              "ToolTip": "D:\\unityProjs\\Cooking Book\\Assets\\!Scripts\\DependenciesInstaller.cs",
+              "RelativeToolTip": "Assets\\!Scripts\\DependenciesInstaller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T10:53:22.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainView.cs",
+              "DocumentMoniker": "D:\\unityProjs\\Cooking Book\\Assets\\!Scripts\\MainView.cs",
+              "RelativeDocumentMoniker": "Assets\\!Scripts\\MainView.cs",
+              "ToolTip": "D:\\unityProjs\\Cooking Book\\Assets\\!Scripts\\MainView.cs",
+              "RelativeToolTip": "Assets\\!Scripts\\MainView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T10:50:35.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "View.cs",
+              "DocumentMoniker": "D:\\unityProjs\\Cooking Book\\Assets\\!Scripts\\View.cs",
+              "RelativeDocumentMoniker": "Assets\\!Scripts\\View.cs",
+              "ToolTip": "D:\\unityProjs\\Cooking Book\\Assets\\!Scripts\\View.cs",
+              "RelativeToolTip": "Assets\\!Scripts\\View.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T10:48:10.744Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
